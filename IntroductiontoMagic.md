@@ -1,0 +1,1 @@
+*The main argument of this lecture is that the Enlightenment made us lose touch with the natural 'magical' world, and this may be why children in the UK are the least happy. This may also be why we love Harry Potter so much.*
