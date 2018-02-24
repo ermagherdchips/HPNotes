@@ -24,6 +24,7 @@
 * Lemony Snicket writes something which suggests that children's literature is more sophisticated now: 'People aren't either wicked or noble. They're like chef's salads, with good things and bad things chopped and mixed together in a vinaigrette of confusion and conflict' (2004).
 * The good/bad dichotomy is so normative thatit becomes parodied 
 * Complicated even further in teen fiction as we encounter morally ambigious characters and common but taboo issues 
+* Assumption that books can taint morals - but books can also affect them positively
 
 ## Good and evil in Harry Potter
 * Considering how good is physically visible:
@@ -41,4 +42,23 @@
 * We are able to experience sympathy towards the 'bad' characters
     * '"She wouldn't even stay alive for her son?" / Dumbledore raised his eyebrows. "Could you possibly be feeling sorry for Voldemort?" / "No," said Harry quickly, "but she had a choice, didn't she, not like my mother..." / "Your mother had a choice too," said Dumbledore gently. "Yes, Merope Riddle chose death in spite of a son who needed her, but do not judge her too harshly, Harry. She was greatly weakened by long suffering and she never had your mother's courage" (HBP, Ch. 13)
     * Though he is unquestionably the villain, we learn more about why he is as he is
-* HP helps readers to appreciate that the world and people in it are not easy to 'sort'
+* HP helps readers to appreciate that the world and people in it are not easy to 'sort' - Gryffindors can be cowardly (Pettigrew), Slytherins can be driven by love not ambition (Narcissa)
+* The series is valuable for working with bereaved children - meadium for bereavement management/resolution
+* Harry as a model of courage and resilience
+* If we live through fictional characters on a neurological level, being bereaved by reading a book, we experience these losses as if they were real, and therefore prepare us for real losses - blurring fiction and reality 
+
+## Empathy and emotional intelligence
+* Emotional intelligence is a kind of emotional literacy 
+* Modelling complex situations within the text can help us to be morally good
+* Reading texts like HP can help children to learn about other people in the world around them - practicing empathy and 'theory of mind' (understanding how others think/act)
+* Young people who read narrative fiction are more likely to do well in an emotion eye test
+* Reading as 'taking in a peace of consciousness'
+* Able to develop empathy for a different race/culture - half-blood/muggles, werewolves, magical creatures
+* Good characters in HP model desirable civic behaviours by treating different groups with respect
+* Are the readers of HP self-selecting and thus already tolerant though?
+* HP resonates with milennials because it is narrative fiction - it allows insight into thought processes and psyches of the characters, allowing us to 'get to know' them and become emotionally invested
+
+## References
+* Tom Blunt (2016), 'This is how literary fiction teaches us to be human'. *Signature*. [Link](http://www.signature-reads.com/2016/09/this-is-how-literary-fiction-teaches-us-to-be-human/)
+* Maria Nikolajeva (2013). 'Did you feel as if you hated people?: emotional literacy through fiction'. *New Review of Children's Literature and Librarianship*, 19. 
+* Keith Oatley (2016). 'Fiction: simulation of social worlds'. *Trends in Cognitive Sciences*, 20.
