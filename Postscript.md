@@ -23,3 +23,4 @@
 * Death 
 * Reality - if doing this question, make sure it is understandable to people who are not philosophers 
 * Enlightenment notes - importance of the journey and the quest (cultural genre), enlightenment as a process rather than a one-off instance; enlightened and learning by doing and learning with others, gradually growing into understanding 
+* Journeys - Potter as a journey 
